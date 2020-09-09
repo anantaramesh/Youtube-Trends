@@ -2,7 +2,7 @@
 
 If a video's popularity is defined by trending, views, and likes, what factors determine the popularity of a Youtube video in the United States? Can a model be built that predicts, based on the title, description, and tags assigned to a video, if and when a published video will trend?
 
-CONTEXT
+/textbf{CONTEXT}
 Youtube keeps a list of the top trending videos on its website that it updates every day. To determine what videos trend, it uses a combination of factors including the number of views, shares, comments, and likes (Variety Magazine). Although one would think that the algorithm used to determine trending (assuming that this is first a classification algorithm - trending or not trending - followed by a ranking algorithm to determine where the video must lie on the trending list) is fair and unbiased, there have been studies conducted that determined that certain channels get prioritized over others. A study conducted by the Youtube channel ‘Coffee Break’ in 2019 determined that Youtube creators need to get a million more views than late-night TV shows in order to appear in the Trending section (The Verge). This goes to show that the Trending is not merely a place to showcase viral videos but a hub to attract advertisers to traditional media sources.
 
 CRITERIA FOR SUCCESS
