@@ -9,7 +9,7 @@ Youtube keeps a list of the top trending videos on its website that it updates e
 The project will be deemed successful if I am able to build a predictive model that can predict when a video will trend (in relation to when it was published) and performance metrics based on the title, description, and tags assigned to the video.
 
 ### SCOPE OF SOLUTION SPACE
-I am only analyzing the datasets for US, Canada, and India, and am only looking at how the title, tags, and description of a video, along with popularity metrics like likes and comments affect the chances of a video trending. I am not examining thumbnails, although I am certain they play a role in deciding if a video will trend or not as well.
+I am only analyzing the datasets for videos that trended in the US, and I am only looking at how the title, tags, and description of a video, along with popularity metrics like likes and comments affect the chances of a video trending. I am not examining thumbnails, although I am certain they play a role in deciding if a video will trend or not as well.
 
 ### CONSTRAINTS
 I don’t have a dataset with videos that did not trend on Youtube. That would have made the prediction better, since I could have also turned it into a classification problem (Trend vs Did not Trend).
