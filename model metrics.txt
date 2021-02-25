@@ -1,0 +1,8 @@
+Final models:
+
+1. TfidfVectorizer
+2. KMeans - n_clusters = 10, max_iter = 200, n_init = 10
+
+Final Data:
+
+categorical features: video description (only longform text source available to distinguish one video from another)
